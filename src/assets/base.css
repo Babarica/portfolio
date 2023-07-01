@@ -1,0 +1,29 @@
+/* color palette from <https://github.com/vuejs/theme> */
+:root {
+  --vt-c-main: #F0F8FF;
+  --vt-c-blue: #778BD4;
+  --vt-c-black: #13151C;
+  --vt-c-brown: #201E32;
+
+}
+
+/* semantic color variables for this project */
+
+
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  font-weight: normal;
+}
+p, button, a, h1 {
+  color: var(--vt-c-black);
+  display: inline-block;
+}
+body {
+  font-size: 16px;
+  font-family: Inter, sans-serif;
+  background-color: var(--vt-c-main);
+}
