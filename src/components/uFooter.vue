@@ -5,7 +5,7 @@
         </p>
         <div class="home-group" :class="{ dark: !isDark }">
             <a href="mailto:ilya-lavrov-2003@list.ru?subject = Feedback&body = Message" class="home-btn mail" :class="{ dark: !isDark }">Email</a>
-            <a href="https://t.me/Big_Iluxa" class="home-btn teleg" :class="{ dark: !isDark }">Telegramm</a>
+            <a href="https://t.me/gde_iluxa" class="home-btn teleg" :class="{ dark: !isDark }">Telegramm</a>
             <a href="https://www.linkedin.com/in/ilya-lavrov-a77b0526b/" class="home-btn linkd" :class="{ dark: !isDark }">Linkedln</a>
             <a href="https://github.com/Babarica" class="home-btn git" :class="{ dark: !isDark }">Github</a>
       </div>

@@ -37,10 +37,18 @@ const blocks =  ref([
         },
         {
             title: "Frontend-разработчик",
-             date: "Ноябрь 2022г. - по настоящее время",
+             date: "Ноябрь 2022г. - Март 2023г.",
             place: "onPoint (Проектная работа)", 
             "Основные обязанности:": ["Разработка и создание новых разделов (страниц)", "Разработка новых компонентов", "Поддержка существующих проектов", "Написание бизнес логики", "Взаимодействие с backend разработчиками, аналитиками, тестировщиками", "Взаимодействие с RESTful API", "Разработка и поддержка UI kit", "Кроссбраузерная верстка", "Адаптивная верстка", "Рефакторинг кода", "Код ревью"],
             "Достижения:": "Вместе с командой из 11 человек разрабатываю крупный проект для американского рынка аналог TT ELD. Работаю с оптимизацией UI компонентов и их подключению в архитектуру приложения. Конвертирую полученные данные из бэкенда в word, pdf.", "Используемый стек:": ["Vue 3", "Vue-router", "Pinia", "Axios", "Storybook", "Vite", "Git"] 
+        },
+        {
+            title: "Frontend-разработчик",
+             date: "Июля 2023г. - по настоящее время",
+            place: "Rocket Firm", 
+            "Основные обязанности:": ["Разработка и создание новых разделов (страниц)", "Разработка новых компонентов", "Поддержка существующих проектов", "Написание бизнес логики", "Взаимодействие с backend разработчиками, аналитиками, тестировщиками", "Взаимодействие с RESTful API", "Разработка и поддержка UI kit", "Кроссбраузерная верстка", "Адаптивная верстка", "Рефакторинг кода", "Код ревью"],
+            "Достижения:": "Успешно завершил несколько крупных проектов, работал с различными библиотеками для создания таблиц, конвертации pdf, создания Google и Yandex карт.", "Используемый стек:": ["Vue 3", "Vue-router", "Pinia", "Axios", "Storybook", "Vite", "Git"],
+            links: ["https://nationalbank.kz/ru", "https://tour.market", "https://sportqory.kz/ru"]
         },
 ])
 const enBlocks =  ref([
@@ -79,7 +87,7 @@ const enBlocks =  ref([
         },
         {
             title: "Frontend Developer",
-             date: "November 2022 - Present",
+             date: "November 2022 - March 2023",
             place: "onPoint (Project work)", 
                 "Основные обязанности:": [
                 "Development and creation of new sections (pages)",
@@ -95,6 +103,26 @@ const enBlocks =  ref([
                 "Code review"
             ],
             "Достижения:": "Working on a major project for the American market similar to TT ELD with a team of 11 people. Optimizing UI components and integrating them into the application architecture. Converting backend data to Word and PDF formats.", "Используемый стек:": ["Vue 3", "Vue-router", "Pinia", "Axios", "Storybook", "Vite", "Git"] 
+        },
+        {
+            title: "Frontend Developer",
+             date: "July 2023 - Present",
+            place: "Rocket Firm", 
+                "Основные обязанности:": [
+                "Development and creation of new sections (pages)",
+                "Development of new components",
+                "Supporting existing projects",
+                "Writing business logic",
+                "Collaborating with backend developers, analysts, testers",
+                "Working with RESTful API",
+                "Developing and maintaining UI kit",
+                "Cross-browser HTML coding",
+                "Responsive web design",
+                "Code refactoring",
+                "Code review"
+            ],
+            "Достижения:": "Successfully completed several large projects, worked with various libraries to create tables, convert pdf, create Google and Yandex maps.", "Используемый стек:": ["Vue 3", "Vue-router", "Pinia", "Axios", "Storybook", "Vite", "Git"],
+            links: ["https://nationalbank.kz/ru", "https://tour.market", "https://sportqory.kz/ru"]
         },
 ])
 </script>
